@@ -89,8 +89,7 @@
 
 <div align="center">
 
-<!-- Streak uses nirzak's instance which is reliable, or swap with YOUR-APP-NAME.vercel.app/api/streak-stats if you self-host that too -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=srinivasrk&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=srinivasrk&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -100,7 +99,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=srinivasrk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=srinivasrk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
