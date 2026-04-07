@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Srini&fontSize=60&fontColor=00e5ff&fontAlignY=50&desc=Software%20Development%20Engineer%20%40%20AWS&descAlignY=65&descColor=ffffff&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header)
 
-</div>
+# 👋 Hi, I'm Srini
 
-<div align="center">
+### Software Development Engineer @ AWS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Cloud-Native+%7C+AI-Native+%7C+Full-Stack;Building+agentic+systems+at+scale+%F0%9F%A4%96;AWS+%7C+CrewAI+%7C+LangGraph+%7C+OpenAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Cloud-Native+%7C+AI-Native+%7C+Full-Stack;Building+agentic+systems+at+scale+%F0%9F%A4%96;AWS+%7C+CrewAI+%7C+LangGraph+%7C+OpenAI)](https://git.io/typing-svg)
 
 </div>
 
