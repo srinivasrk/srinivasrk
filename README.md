@@ -82,13 +82,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinivasrk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasrk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<!-- ⚡ Replace YOUR-APP-NAME with your Vercel deployment URL -->
+<img src="https://YOUR-APP-NAME.vercel.app/api?username=srinivasrk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+<img src="https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=srinivasrk&theme=tokyonight&hide_border=true&count_private=true&layout=compact" height="180"/>
 
 </div>
 
 <div align="center">
 
+<!-- Streak uses nirzak's instance which is reliable, or swap with YOUR-APP-NAME.vercel.app/api/streak-stats if you self-host that too -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=srinivasrk&theme=tokyonight&hide_border=true)
 
 </div>
@@ -99,7 +101,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=srinivasrk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=srinivasrk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
