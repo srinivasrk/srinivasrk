@@ -82,9 +82,8 @@
 
 <div align="center">
 
-<!-- ⚡ Replace YOUR-APP-NAME with your Vercel deployment URL -->
-<img src="https://YOUR-APP-NAME.vercel.app/api?username=srinivasrk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=srinivasrk&theme=tokyonight&hide_border=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats-nine-nu-43.vercel.app/api?username=srinivasrk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+<img src="https://github-readme-stats-nine-nu-43.vercel.app/api/top-langs/?username=srinivasrk&theme=tokyonight&hide_border=true&count_private=true&layout=compact" height="180"/>
 
 </div>
 
