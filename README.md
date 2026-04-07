@@ -95,16 +95,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=srinivasrk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -122,7 +112,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-<img src="https://visitcount.itsvg.in/api?id=srinivasrk&icon=6&color=6" alt="Profile Views"/>
 
 </div>
